@@ -2,7 +2,7 @@
 
 ## Главное окно:
 <p align="center">
-  <img src="https://i.imgur.com/Eu0dMdP.png">
+  <img src="https://imgur.com/a/lZo7xvs">
 </p>
 
 ## Методы:
