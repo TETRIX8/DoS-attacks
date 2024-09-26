@@ -67,4 +67,4 @@
   <img src="https://i.imgur.com/ZpPAJyD.png">
 </p>
 
-Создано destamido (ex. damiolka).
+
